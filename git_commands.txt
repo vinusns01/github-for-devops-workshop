@@ -22,11 +22,11 @@ git push origin master
 git remote set-url origin https://github.com/vinusns01/github-for-dev... 
 git remote -v
 git push origin master
-
-This is some new changes
 git status
 git add git_commands.txt
 git commit -m "Added git command text extra line"
 git push origin master
 git clone https://github.com/vinusns01/github-for-devops-workshop.git
 dir
+Hey ,this is the last time  i am trying later i will go to sleep
+hello guyss
